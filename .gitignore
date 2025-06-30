@@ -1,0 +1,9 @@
+/nats/data/jetstream/$G/streams/KV_fsm_data_aiogram/msgs/1.blk
+/nats/data/jetstream/$G/streams/KV_fsm_data_aiogram/msgs/index.db
+/nats/data/jetstream/$G/streams/KV_fsm_data_aiogram/meta.inf
+/nats/data/jetstream/$G/streams/KV_fsm_data_aiogram/meta.sum
+/nats/data/jetstream/$G/streams/KV_fsm_states_aiogram/msgs/1.blk
+/nats/data/jetstream/$G/streams/KV_fsm_states_aiogram/msgs/index.db
+/nats/data/jetstream/$G/streams/KV_fsm_states_aiogram/meta.inf
+/nats/data/jetstream/$G/streams/KV_fsm_states_aiogram/meta.sum
+/.env
